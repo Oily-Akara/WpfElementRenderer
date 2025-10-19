@@ -1,6 +1,6 @@
 # WpfElementRenderer
 
-[![NuGet version](https://www.nuget.org/packages/WpfElementRenderer/)
+![NuGet version](https://www.nuget.org/packages/WpfElementRenderer/)
 
 A simple .NET library for WPF that renders any `FrameworkElement` into a series of high-quality, paginated PNG images.
 
